@@ -1,1 +1,17 @@
+<Bug_report> 
 
+<Id>1</id>
+<Summary>Localization error of the button 'View all events' in Italian version of the site
+</Summary>
+<Preconditions>Open https://capital.com/</Preconditions>
+<Steps to Reproduce>
+1.Click on the 'langswitch' and choose 'Italiano'
+2.Go to the section 'Calendario economico' of the home page of the Italian version and look at the title of the button on the left side at the bottom of this section
+</Steps to Reproduce>
+<Expected Result>The name of the button 'View all events' changes to the Italian language when switching to the Ilatian version of the site</Expected Result>
+<Actual Result>The name of the button 'View all events' doesn't change to the Italian language when switching to the Ilatian version of the site</Actual Result>
+<Environment>Windows 11 Pro 64-bit Opera, Version 109.0.19987.120</Environment>
+<Severity>Trivial</Severity>
+<Priority>Medium</Priority>
+
+</Bug_report>
